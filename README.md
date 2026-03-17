@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0176-second-highest-salary) |
 | [1280-students-and-examinations](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1280-students-and-examinations) |
 ## String
 |  |
