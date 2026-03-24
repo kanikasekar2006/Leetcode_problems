@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0176-second-highest-salary) |
+| [0197-rising-temperature](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0197-rising-temperature) |
 | [1280-students-and-examinations](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1280-students-and-examinations) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1978-employees-whose-manager-left-the-company) |
 ## String
