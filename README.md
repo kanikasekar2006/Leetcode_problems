@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3745-maximize-expression-of-three-elements](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3745-maximize-expression-of-three-elements) |
+| [3895-count-digit-appearances](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3895-count-digit-appearances](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3895-count-digit-appearances) |
 ## Enumeration
 |  |
 | ------- |
