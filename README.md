@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3945-digit-frequency-score](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3895-count-digit-appearances](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3945-digit-frequency-score) |
 ## Enumeration
 |  |
 | ------- |
