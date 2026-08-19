@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3931-check-adjacent-digit-differences](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Greedy
 |  |
 | ------- |
