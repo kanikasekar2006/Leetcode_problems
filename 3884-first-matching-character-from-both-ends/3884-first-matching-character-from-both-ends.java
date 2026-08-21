@@ -1,11 +1,10 @@
 class Solution {
     public int firstMatchingIndex(String s) {
         int n=s.length();
-        String str[]=s.split("");
         int i=0;
         int j=n-1;
         while(i<=j){
-            if(!str[i].equals(str[j])){
+            if(s.charAt(i)!=s.charAt(j)){
                i++;
                j--;
             }
