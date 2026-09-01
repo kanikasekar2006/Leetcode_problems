@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1927-sum-game) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3856-trim-trailing-vowels](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3884-first-matching-character-from-both-ends) |
 | [3931-check-adjacent-digit-differences](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3931-check-adjacent-digit-differences) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3945-digit-frequency-score](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3945-digit-frequency-score) |
 ## Recursion
