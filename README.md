@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [1544-make-the-string-great](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1544-make-the-string-great) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2057-smallest-index-with-equal-value](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
