@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [1927-sum-game](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
