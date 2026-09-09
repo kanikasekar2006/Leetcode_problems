@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3745-maximize-expression-of-three-elements](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3895-count-digit-appearances) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
