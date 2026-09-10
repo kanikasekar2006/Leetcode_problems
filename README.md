@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2057-smallest-index-with-equal-value](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2057-smallest-index-with-equal-value) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1544-make-the-string-great](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1544-make-the-string-great) |
 ## Game Theory
 |  |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1122-relative-sort-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
