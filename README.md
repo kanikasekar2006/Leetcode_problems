@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0228-summary-ranges](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1051-height-checker) |
