@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
 | [1108-defanging-an-ip-address](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1108-defanging-an-ip-address) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1544-make-the-string-great) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3884-first-matching-character-from-both-ends](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0704-binary-search) |
+## String Matching
+|  |
+| ------- |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
