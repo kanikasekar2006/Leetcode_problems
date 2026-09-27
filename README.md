@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
+| [0944-delete-columns-to-make-sorted](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1108-defanging-an-ip-address) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1544-make-the-string-great](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1544-make-the-string-great) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
+| [0944-delete-columns-to-make-sorted](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1051-height-checker](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
