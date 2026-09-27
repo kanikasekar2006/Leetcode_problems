@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [0748-shortest-completing-word](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0704-binary-search) |
+| [0748-shortest-completing-word](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0748-shortest-completing-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1051-height-checker](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1051-height-checker) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0748-shortest-completing-word](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
