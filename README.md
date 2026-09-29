@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0228-summary-ranges](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0228-summary-ranges) |
 | [0496-next-greater-element-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0561-array-partition) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
