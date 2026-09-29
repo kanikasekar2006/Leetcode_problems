@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3884-first-matching-character-from-both-ends](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0748-shortest-completing-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1051-height-checker](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1122-relative-sort-array) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
