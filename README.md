@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1805-number-of-different-integers-in-a-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1859-sorting-the-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1927-sum-game) |
+| [2000-reverse-prefix-of-word](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3498-reverse-degree-of-a-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2000-reverse-prefix-of-word](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
 | [3884-first-matching-character-from-both-ends](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1544-make-the-string-great](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
 ## Game Theory
 |  |
 | ------- |
