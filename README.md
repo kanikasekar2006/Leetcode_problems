@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1051-height-checker](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [1122-relative-sort-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1859-sorting-the-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String Matching
 |  |
