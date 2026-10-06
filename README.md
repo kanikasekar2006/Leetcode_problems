@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3498-reverse-degree-of-a-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3794-reverse-string-prefix) |
 | [3856-trim-trailing-vowels](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3884-first-matching-character-from-both-ends) |
 | [3931-check-adjacent-digit-differences](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3931-check-adjacent-digit-differences) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3794-reverse-string-prefix](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
 |  |
