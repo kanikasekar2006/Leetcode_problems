@@ -7,8 +7,10 @@ class Solution {
         }
         while(!list.isEmpty()){
          Set<Integer>set=new TreeSet<>(list);
+         for(int num:set){
+            l.add(num);
+         }
          for(int n1:set){
-            l.add(n1);
             list.remove(Integer.valueOf(n1));
          }
         }
