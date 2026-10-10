@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0868-binary-gap) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
 ## Database
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1805-number-of-different-integers-in-a-string) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2206-divide-array-into-equal-pairs](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Quicksort
 |  |
