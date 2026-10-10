@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2057-smallest-index-with-equal-value) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1859-sorting-the-sentence](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1859-sorting-the-sentence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3745-maximize-expression-of-three-elements) |
