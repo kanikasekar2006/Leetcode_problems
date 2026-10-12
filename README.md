@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0748-shortest-completing-word](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0771-jewels-and-stones) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
