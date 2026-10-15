@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -299,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
