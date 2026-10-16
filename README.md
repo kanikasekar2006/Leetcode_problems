@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0704-binary-search) |
 | [0748-shortest-completing-word](https://github.com/kanikasekar2006/Leetcode_problems/tree/master/0748-shortest-completing-word) |
